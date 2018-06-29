@@ -1,0 +1,32 @@
+{
+  "name": "aeggf-decorators",
+  "version": "1.0.0",
+  "description": "decorators for routing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alobe/Aeggf-decorators.git"
+  },
+  "keywords": [
+    "decorators"
+  ],
+  "author": "alobe <alobef0515@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alobe/Aeggf-decorators/issues"
+  },
+  "homepage": "https://github.com/alobe/Aeggf-decorators#readme",
+  "dependencies": {
+    "babel-plugin-transform-decorators-legacy": "^1.3.5",
+    "reflect-metadata": "^0.1.12"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.5",
+    "eslint": "4.10.0",
+    "eslint-config-egg": "^7.0.0",
+    "ramda": "^0.25.0"
+  }
+}
